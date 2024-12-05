@@ -14,18 +14,18 @@ I'm currently a University Student at the [Academy of Interactive Entertainment]
 
 Along with these, I've learned the following across my journey up until this point, I may not be the _the most_ flexible with these, though they may certainly be of use!
 
-- [Lua]("https://www.lua.org/")
-- [Python]("https://www.python.org/")
-- [HTML]("https://html.spec.whatwg.org/")
-- [CSS]("https://www.w3.org/TR/CSS/#css")
+- [Lua](https://www.lua.org/)
+- [Python](https://www.python.org/)
+- [HTML](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3.org/TR/CSS/#css)
 
 - [Godot Engine](https://godotengine.org/)
-- [LOVE2D Framework]("https://www.love2d.org/")
-- [Raylib Library]("https://www.raylib.com/")
+- [LOVE2D Framework](https://www.love2d.org/)
+- [Raylib Library](https://www.raylib.com/)
 
 I'm also in the process of learning the following below, so don't expect me to know a whole lot about them!
 
-- [Unreal Engine]("https://www.unrealengine.com/en-US")
+- [Unreal Engine](https://www.unrealengine.com/en-US)
 
 ### Conclusion
 Thanks for visiting my profile and I hope to see you soon, see ya!
